@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Leonardo</h1>
 <h3 align="center">Sou um estudante de áreas correlatas á Dados.</h3>
 
-- 🌱 Atualmente estou aprendendo sobre: **Python e SQL**
+- 🌱 Atualmente estou aprendendo sobre: **Python para Data Science e SQL**
 
 - Meu Email: **leonardomaestri2@gmail.com**
 
