@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
+<h1 align="center">Oi 👋, eu sou Leonardo</h1>
 <h3 align="center">Sou um estudante de áreas correlatas á Dados.</h3>
 
 - 🌱 Atualmente estou aprendendo sobre: **Python e SQL**
