@@ -28,6 +28,6 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Pandas, Power
 ### 🌍 Onde me encontrar
 📧 **Email**: leonardomaestri2@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/leonardo-maestri-cintra](https://www.linkedin.com/in/leonardo-maestri-cintra-84683125a/)  
-📌 **GitHub**: [github.com/seu-usuario](https://github.com/) *(https://github.com/leonardo-maestri)*
+📌 **GitHub**: *(https://github.com/leonardo-maestri)*
 
 Sinta-se à vontade para se conectar comigo! 🚀
