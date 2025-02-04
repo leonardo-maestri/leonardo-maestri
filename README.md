@@ -18,11 +18,9 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Pandas, Power
 - Extração e manipulação de dados públicos
 - Consultas SQL para análise de arrecadação de CSLL, COFINS, PIS, IPI...
 
-🔹 **[ETL com Pandas e SQL](#)** *(Python)*
-- Transformação e limpeza usando Pandas
-- Carga de dados em um banco relacional
+🔹 **[Análise de vendas de um Varejo](#)** *(Python)*
 - Respondendo Perguntas de Negócio com Gráficos.
-
+- Usando PANDAS para filtrar e análisar os dados.
 
 ---
 ### 🌍 Onde me encontrar
