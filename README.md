@@ -2,7 +2,7 @@
 ### 📊 Estudante de Ciência da Computação | Focado em Dados e Análise
 
 Sou apaixonado por transformar dados em insights e estou me desenvolvendo nas áreas de **Análise de Dados e  BI e Business Inteligence**.
-Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Pandas, Power BI e Excel**.
+Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Excel**.
 
 ---
 ### 🚀 Tecnologias e Ferramentas
