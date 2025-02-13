@@ -28,10 +28,10 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Ex
 -Formas de pagamento mais utilizadas.
 
 🚀 Ferramentas Utilizadas
-Python (Pandas) para manipulação de dados.
-SQL para Consultas
-Power BI para visualização e criação do dashboard.
----
+-Python (Pandas) para manipulação de dados.
+-SQL para Consultas
+-Power BI para visualização e criação do dashboard.
+
 
 🔹 **[Análise de Arrecadação de Impostos](#)** *(SQL e Python)*
 - Extração e manipulação de dados públicos
