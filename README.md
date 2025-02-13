@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Leonardo!
 ### 📊 Estudante de Ciência da Computação | Focado em Dados e Análise
 
-Sou apaixonado por transformar dados em insights e estou me desenvolvendo nas áreas de **Análise de Dados e  BI e Business Inteligence**.
+Sou apaixonado por transformar dados em insights e estou me desenvolvendo nas áreas de **Análise de Dados e Business Inteligence**.
 Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Excel**.
 
 ---
