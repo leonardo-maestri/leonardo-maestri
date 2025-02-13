@@ -14,6 +14,25 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Ex
 
 ---
 ### 📂 Projetos
+**{Dashboard de Vendas e Entregas](#)** (Power BI, SQL e Python)
+
+🔹 Extração e manipulação de dados
+
+-União de tabelas e transformação dos dados com SQL e Python (Pandas).
+-Exportação dos dados processados para CSV para integração no Power BI.
+
+🔹 *Análises e Métricas no Power BI
+-Faturamento total e por mês.
+-Quantidade de pedidos por período.
+-Tempo médio de entrega por status.
+-Formas de pagamento mais utilizadas.
+
+🚀 Ferramentas Utilizadas
+Python (Pandas) para manipulação de dados.
+SQL para Consultas
+Power BI para visualização e criação do dashboard.
+---
+
 🔹 **[Análise de Arrecadação de Impostos](#)** *(SQL e Python)*
 - Extração e manipulação de dados públicos
 - Consultas SQL para análise de arrecadação de CSLL, COFINS, PIS, IPI...
@@ -22,7 +41,7 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Ex
 - Respondendo Perguntas de Negócio com Gráficos.
 - Usando PANDAS para filtrar e análisar os dados.
 
----
+  
 ### 🌍 Onde me encontrar
 📧 **Email**: leonardomaestri2@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/leonardo-maestri-cintra](https://www.linkedin.com/in/leonardo-maestri-cintra-84683125a/)  
