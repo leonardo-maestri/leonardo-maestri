@@ -22,15 +22,15 @@ Atualmente, estou aprimorando minhas habilidades em **SQL, Python, Power BI e Ex
 -Exportação dos dados processados para CSV para integração no Power BI.
 
 🔹 *Análises e Métricas no Power BI
--Faturamento total e por mês.
--Quantidade de pedidos por período.
--Tempo médio de entrega por status.
--Formas de pagamento mais utilizadas.
+- Faturamento total e por mês.
+- Quantidade de pedidos por período.
+- Tempo médio de entrega por status.
+- Formas de pagamento mais utilizadas.
 
 🚀 Ferramentas Utilizadas
--Python (Pandas) para manipulação de dados.
--SQL para Consultas
--Power BI para visualização e criação do dashboard.
+- Python (Pandas) para manipulação de dados.
+- SQL para Consultas
+- Power BI para visualização e criação do dashboard.
 
 
 🔹 **[Análise de Arrecadação de Impostos](#)** *(SQL e Python)*
